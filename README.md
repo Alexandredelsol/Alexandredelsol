@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre DELSOL</h1>
-<h3 align="center">A passionate frontend developer from France</h3>
+<h3 align="left">I'm a full-stack developer. I use React with TypeScript for the front end and Java Spring Boot for the back end.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
