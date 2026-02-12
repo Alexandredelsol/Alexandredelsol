@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandre-delsol-66530035b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandre-delsol-66530035b/" height="30" width="40" /></a>
 </p>
 <hr>
-<h3 align="left">Certificate:</h3>
+<h3 align="left">Certificates:</h3>
 <h4 align="left">Sololearn </h4>
 
 ![Carrousel](https://github.com/user-attachments/assets/dea75926-3708-4914-8983-b1f74e601f8c)
