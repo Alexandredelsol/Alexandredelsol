@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandre DELSOL</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Alexandre%20DELSOL&textBg=false&section=header&animation=fadeIn&fontAlign=50"/>
 <h3 align="left">I'm a full-stack developer.
 <br> I use React with TypeScript for the front end and Java Spring Boot for the back end.</h3>
 
@@ -83,3 +83,4 @@ Repository of JavaScript practice exercises and katas.
 
 ![Carrousel](https://github.com/user-attachments/assets/54ec4d50-cdc0-45c4-924d-62d733099da4)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&textBg=false&section=footer&animation=fadeIn&fontAlign=50" />
