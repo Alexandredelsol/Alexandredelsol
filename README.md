@@ -12,10 +12,14 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
+</p>
+<h3 align="left">Portfolio :</h3>
+<p align="left">
 <a href="https://alexandre-delsol-dev-portfolio.vercel.app/" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" />
+🌐 alexandre-delsol-dev-portfolio.vercel.app
 </a>
 </p>
+
 <hr>
 
 ##  Projects :
