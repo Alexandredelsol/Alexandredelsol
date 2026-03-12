@@ -16,7 +16,7 @@
 <h3 align="left">Portfolio :</h3>
 <p align="left">
 <a href="https://alexandre-delsol-dev-portfolio.vercel.app/" target="_blank">
-🌐 alexandre-delsol-dev-portfolio.vercel.app
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="30" width="30" />
 </a>
 </p>
 
